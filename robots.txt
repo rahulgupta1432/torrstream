@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://torrstream.vercel.app/sitemap.xml
